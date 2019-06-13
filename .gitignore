@@ -1,0 +1,5 @@
+consul
+consul.d
+tokens
+outputs
+admin.token
